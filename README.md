@@ -1,6 +1,6 @@
 # entanglement_engineering
 
-Under Anaconda Prompt window:
+Under Anaconda Prompt window://
 >conda create -n qutip_RL python=3.9
 >pip install spyder
 >pip install qutip==4.7.1
