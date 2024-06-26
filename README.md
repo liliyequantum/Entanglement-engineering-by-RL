@@ -8,7 +8,7 @@ Under Anaconda Prompt window:
 >pip install stable-baselines3==1.8.0
 ```
 
-open spyder by the command
+Open spyder by the command
 ```bibtex
 > spyder
 ```
