@@ -3,6 +3,7 @@
 Under Anaconda Prompt window:
 ```bibtex
 >conda create -n qutip_RL python=3.9
+>pip install -r requirements.txt
 >pip install spyder
 >pip install qutip==4.7.1
 >pip install stable-baselines3==1.8.0
