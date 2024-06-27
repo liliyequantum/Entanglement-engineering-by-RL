@@ -37,5 +37,5 @@ spyder
 
 2. Sb3-contrib for the recurrent PPO agent: [https://sb3-contrib.readthedocs.io/en/master/index.html]
 
-3. QuTip [https://qutip.readthedocs.io/en/master/index.html]
+3. QuTip: [https://qutip.readthedocs.io/en/master/index.html]
 
