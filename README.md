@@ -8,7 +8,6 @@ Under Anaconda Prompt window:
 >pip install stable-baselines3==1.8.0
 >pip install sb3-contrib==1.8.0
 >pip install tqdm
->pip install --upgrade qutip numpy cython
 ```
 Stable-baselines3 for the PPO agent [https://stable-baselines3.readthedocs.io/en/master/index.html]
 
