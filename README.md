@@ -27,13 +27,15 @@ spyder
 
 ## Code Files
 
-`*` Files with the suffix `Fig_plot` are used for plotting figures.
+1. Files with the suffix `Fig_plot` are used for plotting figures.
 
-`*` Files with the suffix `Fig_code` are used for generating data.
+2. Files with the suffix `Fig_code` are used for generating data.
 
-Stable-baselines3 for the PPO agent [https://stable-baselines3.readthedocs.io/en/master/index.html]
+## References
 
-Sb3-contrib for the recurrent PPO agent [https://sb3-contrib.readthedocs.io/en/master/index.html]
+1. Stable-baselines3 for the PPO agent: [https://stable-baselines3.readthedocs.io/en/master/index.html]
+
+2. Sb3-contrib for the recurrent PPO agent: [https://sb3-contrib.readthedocs.io/en/master/index.html]
 
 
 
