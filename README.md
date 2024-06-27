@@ -13,7 +13,7 @@ conda create -n qutip_RL python=3.9
 pip install -r requirements.txt
 ```
 
-## File Placement
+## File Placement for the Custom Quantum Environment
 1. Put all files from the directory `.\cust_env\classical_control\` into the `qutip_RL` environment directory at `C:\users\yourUserName\anaconda3\envs\qutip_RL\Lib\site-packages\gym\envs\classic_control\`, replacing the original files.
 
 2. Copy the file from `.\cust_env\__init__.py` and paste it into `C:\users\yourUserName\anaconda3\envs\qutip_RL\Lib\site-packages\gym\envs\__init__.py`, replacing the original file.
