@@ -29,7 +29,10 @@ spyder
 
 1. Files with the suffix `Fig_plot` are used for plotting figures.
 
-2. Files with the suffix `Fig_code` are used for generating data.
+2. Files with the suffix `Fig_code` are used for plotting partial figures.
+
+3. Files with the suffix `Fig_data` are used for generating data for figures.
+   
 
 ## References
 
