@@ -29,11 +29,15 @@ spyder
 
 ## Code Files
 
-1. Files with the suffix `Fig_plot` are used for plotting figures.
+1. Files with the suffix `fig_plot` are used for plotting figures.
 
-2. Files with the suffix `Fig_code` are used for plotting partial figures.
+2. Files with the suffix `fig_code` are used for plotting partial figures.
 
-3. Files with the suffix `Fig_data` are used for generating data for figures.
+3. Files with the suffix `fig_data` are used for generating data for figures.
+
+## Tips
+
+When running the training code (e.g., `training_fig_data.py`), you can copy it into a new directory named code_test. In this directory, you can try reducing the training load by setting parameters such as `n_episode = 10`, `n_steps = 10`, `n_update = 2`, and `output_interval = 2`. This will allow you to quickly test the code.
    
 
 ## References
