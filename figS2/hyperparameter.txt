@@ -1,0 +1,4 @@
+N_10
+g0_0.2
+kappa_0.1
+learnRate_0.0005
