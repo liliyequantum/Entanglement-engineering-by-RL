@@ -37,8 +37,9 @@ spyder
 
 ## Tips
 
-When running the training code (e.g., `training_fig_data.py`), you can copy it into a new directory named code_test. In this directory, you can try reducing the training load by setting parameters such as `n_episode = 10`, `n_steps = 10`, `n_update = 2`, and `output_interval = 2`. This will allow you to quickly test the code.
-   
+1. When running the training code (e.g., `training_fig2_data.py`), you can copy it into a new directory named code_test. In this directory, you can try reducing the training load by setting parameters such as `n_episode = 10`, `n_steps = 10`, `n_update = 2`, and `output_interval = 2`. This will allow you to quickly test the code.
+
+2. The testing process in the code (e.g., `test_ave_fig2_code.py`) has the testing function (e.g., `PPOtest`) commented out and saves all testing data. You can simply plot all results by running such codes (e.g., `test_ave_fig2_code.py`) directly.
 
 ## References
 
