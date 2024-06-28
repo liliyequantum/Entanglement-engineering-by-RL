@@ -42,3 +42,15 @@ spyder
 
 3. QuTip: [https://qutip.readthedocs.io/en/master/index.html]
 
+# Citation
+
+This work is uploaded to arXiv [https://arxiv.org/abs/2406.04550] and can be cited as the following BibTeX entry
+
+```bash
+@article{ye2024entanglement,
+  title={Entanglement engineering of optomechanical systems by reinforcement learning},
+  author={Ye, Li-Li and Arenz, Christian and Sinha, Kanu and Lukens, Joseph M and Lai, Ying-Cheng},
+  journal={arXiv preprint arXiv:2406.04550},
+  year={2024}
+}
+```
