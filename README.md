@@ -42,7 +42,7 @@ spyder
 2. The testing process in the code (e.g., `test_ave_fig2_code.py`) has the testing function (e.g., `PPOtest`) commented out and saves all testing data. You can simply plot all results by running such codes (e.g., `test_ave_fig2_code.py`) directly.
 
 ## Data
-The complete training results from Figures 4 to 8 and Figures S1 to S2 have been shared on Zenodo: [https://zenodo.org/records/12584159]
+The complete training results from Figures 4 to 8 and Figures S1 to S2 have been shared on Zenodo: [https://doi.org/10.5281/zenodo.12584159]
 
 ## References
 
