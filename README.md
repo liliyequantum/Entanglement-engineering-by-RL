@@ -10,6 +10,7 @@ To set up the environment, open the Anaconda Prompt and run the following comman
 
 ```sh
 conda create -n qutip_RL python=3.9
+conda activate qutip_RL
 pip install -r requirements.txt
 ```
 
