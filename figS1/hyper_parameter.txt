@@ -1,0 +1,6 @@
+ra_1.0
+rb_40
+N_10
+g0_0.2
+kappa_0.1
+learnRate_0.0005
