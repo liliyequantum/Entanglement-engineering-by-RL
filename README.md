@@ -68,6 +68,7 @@ If you use this code, please cite:
 ```
 
 If you use this code's simulation data, please cite:
+```bibtex
 @dataset{ye_2024_entanglement_engineering_data,
   author       = {Ye, Li-Li},
   title        = {Entanglement engineering of optomechanical systems 
@@ -78,3 +79,4 @@ If you use this code's simulation data, please cite:
   doi          = {10.5281/zenodo.12584159},
   url          = {https://doi.org/10.5281/zenodo.12584159}
 }
+```
