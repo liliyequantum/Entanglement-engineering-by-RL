@@ -1,5 +1,3 @@
-# entanglement_engineering
-
 ## System requirement
 
 Windows 10, CPU
