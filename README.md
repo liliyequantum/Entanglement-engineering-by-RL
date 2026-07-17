@@ -53,14 +53,13 @@ The complete training results from Figures 4 to 8 and Figures S1 to S2 have been
 ## Citation
 If you use this code or simulated data, please cite:
 ```bibtex
-@dataset{ye_2024_entanglement_engineering_data,
-  author       = {Ye, Li-Li},
-  title        = {Entanglement engineering of optomechanical systems 
-                  by reinforcement learning},
-  version      = {v1},
-  year         = {2024},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.12584159},
-  url          = {https://doi.org/10.5281/zenodo.12584159}
+@article{ye2025entanglement,
+  title={Entanglement engineering of optomechanical systems by reinforcement learning},
+  author={Ye, Li-Li and Arenz, Christian and Lukens, Joseph M and Lai, Ying-Cheng},
+  journal={APL Machine Learning},
+  volume={3},
+  number={1},
+  year={2025},
+  publisher={AIP Publishing}
 }
 ```
