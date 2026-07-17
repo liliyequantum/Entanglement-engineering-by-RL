@@ -51,21 +51,7 @@ The complete training results from Figures 4 to 8 and Figures S1 to S2 have been
 3. QuTip: [https://qutip.readthedocs.io/en/master/index.html]
 
 ## Citation
-If you use this code, please cite:
-
-```bibtex
-@software{Ye_2026_entanglement_engineering_RL,
-  author       = {Ye, Li-Li},
-  title        = {Entanglement-engineering-by-RL},
-  version      = {v1.0},
-  year         = {2026},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.21418346},
-  url          = {https://doi.org/10.5281/zenodo.21418346}
-}
-```
-
-If you use this code's simulated data, please cite:
+If you use this code or simulated data, please cite:
 ```bibtex
 @dataset{ye_2024_entanglement_engineering_data,
   author       = {Ye, Li-Li},
