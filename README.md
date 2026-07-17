@@ -66,3 +66,15 @@ If you use this code, please cite:
   url          = {https://doi.org/10.5281/zenodo.21418346}
 }
 ```
+
+If you use this code's simulation data, please cite:
+@dataset{ye_2024_entanglement_engineering_data,
+  author       = {Ye, Li-Li},
+  title        = {Entanglement engineering of optomechanical systems 
+                  by reinforcement learning},
+  version      = {v1},
+  year         = {2024},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.12584159},
+  url          = {https://doi.org/10.5281/zenodo.12584159}
+}
